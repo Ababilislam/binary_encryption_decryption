@@ -1,3 +1,6 @@
+# info about this work
+this work is done as a individual going through data hiding and data/message encrypting system i have found out what if i try to stablish a specific binary data ecrypting system and decrypting system. this system currently check whatever the given message that need to decrypt is the real message or not. and give feed back to user.
+## working procedure / setup procedure
 this file may not work in your pc if encrypt_decrypt.py file didn't run then follow below procedure
 steps
 1.open project directory
